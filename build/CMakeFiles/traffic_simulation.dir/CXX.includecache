@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.cpp
+algorithm
+-
+iostream
+-
+chrono
+-
+TrafficObject.h
+/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+
+/home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
